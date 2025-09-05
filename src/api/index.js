@@ -2,6 +2,6 @@
 import axios from 'axios';
 const Api = axios.create({
 //samakan dengan url api Laravel modul 5
-baseURL: 'https://api.yaasteak.my.id'
+baseURL: 'https://api.yaasteak.my.id',
 })
 export default Api

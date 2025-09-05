@@ -1,7 +1,7 @@
 <template>
     <section class="about-us">
       <div class="about-content">
-        <img src="storage/images/logo.png" alt="Fire Icon" class="icon-fire" />
+        <img src="/images/logo.png" alt="Fire Icon" class="icon-fire" />
         <p>
           Yaa Steak merupakan UMKM bidang food & beverages
           yang terletak di Pujasera D'food City Surabaya.
@@ -20,7 +20,7 @@
           Jadi makanan ini cocok untuk
           semua kalangan yang ada.
         </p>
-        <img src="storage/images/logo halal.jpeg" alt="Halal Icon" class="icon-fire" />
+        <img src="/images/logo halal.jpeg" alt="Halal Icon" class="icon-fire" />
       </div>
     </section>
   </template>
